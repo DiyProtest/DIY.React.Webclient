@@ -2,312 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e0e32f6-3e76-49d9-b1e6-15199156f976" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/apple-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/api/clientApi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/github/material-dashboard-pro-react.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/apple-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/bg-pricing.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/card-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/card-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/card-3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/clint-mckoy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/default-avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/faces/avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/faces/card-profile1-square.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/faces/card-profile2-square.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/faces/marc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/AD.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/AE.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/AG.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/AM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/AR.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/AT.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/AU.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/BE.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/BF.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/BG.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/BO.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/BR.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/CA.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/CD.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/CG.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/CH.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/CL.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/CM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/CN.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/CO.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/CZ.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/DE.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/DJ.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/DK.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/DZ.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/EE.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/EG.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/ES.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/FI.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/FR.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/GA.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/GB.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/GM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/GT.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/HN.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/HT.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/HU.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/ID.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/IE.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/IL.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/IN.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/IQ.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/IR.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/IT.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/JM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/JO.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/JP.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/KG.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/KN.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/KP.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/KR.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/KW.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/KZ.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/LA.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/LB.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/LC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/LS.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/LU.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/LV.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/MG.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/MK.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/ML.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/MM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/MT.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/MX.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/NA.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/NE.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/NG.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/NI.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/NL.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/NO.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/OM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/PA.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/PE.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/PG.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/PK.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/PL.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/PT.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/PY.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/QA.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/RO.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/RU.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/RW.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/SA.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/SE.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/SG.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/SL.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/SN.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/SO.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/SV.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/TD.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/TJ.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/TL.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/TR.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/TZ.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/UA.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/US.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/VE.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/VN.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/flags/YE.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/header-doc.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/image_placeholder.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/lock.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/login.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/mask.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/new_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/placeholder.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/product1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/product2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/product3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/register.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/sidebar-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/sidebar-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/sidebar-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/sidebar-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/buttonGroupStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/cardImagesStyles.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/components/accordionStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/components/adminNavbarLinksStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/components/adminNavbarStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/components/authNavbarStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/components/badgeStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/components/buttonStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/components/cardAvatarStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/components/cardBodyStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/components/cardFooterStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/components/cardHeaderStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/components/cardIconStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/components/cardStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/components/cardTextStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/components/customDropdownStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/components/customInputStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/components/customLinearProgressStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/components/customTabsStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/components/footerStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/components/headingStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/components/infoStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/components/instructionStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/components/navPillsStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/components/paginationStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/components/sidebarStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/components/snackbarContentStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/components/tableStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/components/tasksStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/components/timelineStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/components/typographyStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/components/wizardStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/customCheckboxRadioSwitch.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/customSelectStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/hoverCardStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/layouts/adminStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/layouts/authStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/layouts/rtlStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/modalStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/views/buttonsStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/views/chartsStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/views/dashboardStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/views/errorPageStyles.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/views/extendedFormsStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/views/extendedTablesStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/views/gridSystemStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/views/iconsStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/views/lockScreenPageStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/views/loginPageStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/views/notificationsStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/views/pricingPageStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/views/registerPageStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/views/regularFormsStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/views/sweetAlertStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/views/userProfileStyles.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-pro-react/views/validationFormsStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/material-dashboard-pro-react.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/material-dashboard-pro-react/_colors.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/material-dashboard-pro-react/_fileupload.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/material-dashboard-pro-react/_fixed-plugin.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/material-dashboard-pro-react/_misc.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/material-dashboard-pro-react/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/material-dashboard-pro-react/_shadows.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/material-dashboard-pro-react/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/material-dashboard-pro-react/mixins/_chartist.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/material-dashboard-pro-react/mixins/_sidebar-color.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/material-dashboard-pro-react/mixins/_transparency.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/material-dashboard-pro-react/mixins/_vendor-prefixes.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/material-dashboard-pro-react/plugins/_plugin-nouislider.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/material-dashboard-pro-react/plugins/_plugin-perfect-scrollbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/material-dashboard-pro-react/plugins/_plugin-react-big-calendar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/material-dashboard-pro-react/plugins/_plugin-react-bootstrap-sweetalert.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/material-dashboard-pro-react/plugins/_plugin-react-chartist.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/material-dashboard-pro-react/plugins/_plugin-react-datetime.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/material-dashboard-pro-react/plugins/_plugin-react-jvectormap.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/material-dashboard-pro-react/plugins/_plugin-react-table.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/material-dashboard-pro-react/plugins/_plugin-react-tagsinput.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Accordion/Accordion.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Badge/Badge.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Card/Card.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Card/CardAvatar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Card/CardBody.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Card/CardFooter.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Card/CardHeader.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Card/CardIcon.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Card/CardText.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Clearfix/Clearfix.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CustomButtons/Button.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CustomDropdown/CustomDropdown.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CustomInput/CustomInput.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CustomLinearProgress/CustomLinearProgress.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CustomTabs/CustomTabs.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CustomUpload/ImageUpload.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CustomUpload/PictureUpload.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/FixedPlugin/FixedPlugin.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Grid/GridContainer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Grid/GridItem.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Heading/Heading.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/InfoArea/InfoArea.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Instruction/Instruction.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NavPills/NavPills.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navbars/AdminNavbar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navbars/AdminNavbarLinks.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navbars/AuthNavbar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Pagination/Pagination.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Sidebar/Sidebar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Snackbar/Snackbar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Snackbar/SnackbarContent.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Table/Table.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Tasks/Tasks.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Timeline/Timeline.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Typography/Danger.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Typography/Info.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Typography/Muted.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Typography/Primary.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Typography/Quote.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Typography/Success.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Typography/Warning.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Wizard/Wizard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/layouts/Admin.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/layouts/Auth.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/layouts/RTL.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variables/charts.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variables/general.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Calendar/Calendar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Charts/Charts.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Client/Clients.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Client/EditClient.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Components/Buttons.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Components/GridSystem.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Components/Icons.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Components/Notifications.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Components/Panels.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Components/SweetAlert.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Components/Typography.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Dashboard/Dashboard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Forms/ExtendedForms.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Forms/RegularForms.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Forms/ValidationForms.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Forms/Wizard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Forms/WizardSteps/Step1.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Forms/WizardSteps/Step2.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Forms/WizardSteps/Step3.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Maps/FullScreenMap.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Maps/GoogleMaps.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Maps/VectorMap.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Pages/ErrorPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Pages/LockScreenPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Pages/LoginPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Pages/PricingPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Pages/RTLSupport.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Pages/RegisterPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Pages/Timeline.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Pages/UserProfile.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Tables/ExtendedTables.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Tables/ReactTables.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Tables/RegularTables.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Widgets/Widgets.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/logo-white.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -319,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/api/clientApi.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -332,12 +27,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/views/Client/Clients.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
+            <state relative-caret-position="1173">
               <caret line="63" column="47" selection-start-line="63" selection-start-column="47" selection-end-line="63" selection-end-column="47" />
-              <folding>
-                <element signature="e#230#271#0" expanded="true" />
-                <element signature="e#444#512#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -351,29 +42,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/views/Widgets/Widgets.jsx">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1385" />
+            <state>
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/views/Dashboard/Dashboard.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1121">
+            <state relative-caret-position="529">
               <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
-                <element signature="e#1194#1262#0" expanded="true" />
-                <element signature="e#3045#3797#0" />
-                <element signature="e#3882#4412#0" />
-                <element signature="e#4497#5048#0" />
-                <element signature="e#5133#5675#0" />
-                <element signature="e#5788#8926#0" />
-                <element signature="e#9008#11015#0" />
-                <element signature="e#11026#12983#0" />
-                <element signature="e#12994#14855#0" />
               </folding>
             </state>
           </provider>
@@ -382,7 +73,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/routes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-177">
+            <state relative-caret-position="276">
               <caret line="40" column="43" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
               <folding>
                 <element signature="e#0#53#0" expanded="true" />
@@ -394,7 +85,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/views/Tables/ReactTables.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
+            <state relative-caret-position="3611">
               <caret line="170" column="19" selection-end-line="177" />
             </state>
           </provider>
@@ -481,6 +172,12 @@
       </list>
     </option>
   </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="314" />
     <option name="y" value="108" />
@@ -503,36 +200,6 @@
               <item name="diyprotest" type="b2602c69:ProjectViewProjectNode" />
               <item name="diyprotest" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="diyprotest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="diyprotest" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="diyprotest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="diyprotest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="diyprotest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="diyprotest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="diyprotest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="diyprotest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="Client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="diyprotest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="diyprotest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="Widgets" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -541,6 +208,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.15.3" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
@@ -549,6 +217,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
@@ -599,17 +268,17 @@
       <updated>1551908759704</updated>
       <workItem from="1551908760981" duration="25505000" />
       <workItem from="1551990926654" duration="7918000" />
+      <workItem from="1552335790627" duration="701000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33423000" />
+    <option name="totallyTimeSpent" value="34124000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="314" y="109" width="1403" height="878" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496382" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18167457" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -953,34 +622,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/Dashboard/Dashboard.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1121">
-          <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-            <element signature="e#1194#1262#0" expanded="true" />
-            <element signature="e#3045#3797#0" />
-            <element signature="e#3882#4412#0" />
-            <element signature="e#4497#5048#0" />
-            <element signature="e#5133#5675#0" />
-            <element signature="e#5788#8926#0" />
-            <element signature="e#9008#11015#0" />
-            <element signature="e#11026#12983#0" />
-            <element signature="e#12994#14855#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/layouts/Admin.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -1016,27 +657,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/Tables/ReactTables.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="170" column="19" selection-end-line="177" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/variables/general.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
           <caret line="366" column="6" selection-start-line="366" selection-start-column="6" selection-end-line="366" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/routes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-177">
-          <caret line="40" column="43" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#53#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1059,12 +683,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/views/Client/Clients.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
+        <state relative-caret-position="1173">
           <caret line="63" column="47" selection-start-line="63" selection-start-column="47" selection-end-line="63" selection-end-column="47" />
-          <folding>
-            <element signature="e#230#271#0" expanded="true" />
-            <element signature="e#444#512#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1075,9 +695,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/Widgets/Widgets.jsx">
+    <entry file="file://$PROJECT_DIR$/src/views/Dashboard/Dashboard.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1385" />
+        <state relative-caret-position="529">
+          <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="40" column="43" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Tables/ReactTables.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3611">
+          <caret line="170" column="19" selection-end-line="177" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Widgets/Widgets.jsx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>
